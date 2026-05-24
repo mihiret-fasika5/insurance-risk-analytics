@@ -76,7 +76,7 @@ docs/_build/
 target/
 
 # Ignore data directory
-data/
+##data/
 .db
 
 # Ignore CSV files
