@@ -82,6 +82,7 @@ data/
 # Ignore CSV files
 *.csv
 
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
